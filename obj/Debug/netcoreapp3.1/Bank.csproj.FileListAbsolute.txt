@@ -1,0 +1,13 @@
+C:\Users\pires\Desktop\Localiza\curso\Bank\bin\Debug\netcoreapp3.1\Bank.exe
+C:\Users\pires\Desktop\Localiza\curso\Bank\bin\Debug\netcoreapp3.1\Bank.deps.json
+C:\Users\pires\Desktop\Localiza\curso\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.json
+C:\Users\pires\Desktop\Localiza\curso\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.dev.json
+C:\Users\pires\Desktop\Localiza\curso\Bank\bin\Debug\netcoreapp3.1\Bank.dll
+C:\Users\pires\Desktop\Localiza\curso\Bank\bin\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\pires\Desktop\Localiza\curso\Bank\obj\Debug\netcoreapp3.1\Bank.csprojAssemblyReference.cache
+C:\Users\pires\Desktop\Localiza\curso\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfoInputs.cache
+C:\Users\pires\Desktop\Localiza\curso\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfo.cs
+C:\Users\pires\Desktop\Localiza\curso\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.CoreCompileInputs.cache
+C:\Users\pires\Desktop\Localiza\curso\Bank\obj\Debug\netcoreapp3.1\Bank.dll
+C:\Users\pires\Desktop\Localiza\curso\Bank\obj\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\pires\Desktop\Localiza\curso\Bank\obj\Debug\netcoreapp3.1\Bank.genruntimeconfig.cache
