@@ -6,12 +6,15 @@ namespace Bank
     {
         static void Main(string[] args)
         {
-            Conta minhaConta = new Conta();
-            Conta suaConta = new Conta();
-            suaConta.Nome = "Neymar";
-            minhaConta.Nome = "Lucas";
-            Console.WriteLine(minhaConta.Nome);
-            Console.WriteLine(suaConta.Nome);
+            Conta minhaConta = new Conta(TipoConta.PessoaFisica, 0 , 0,"Lucas Ribeiro");
+            Conta suaConta = new Conta(TipoConta.PessoaFisica, 0 , 0,"Neymar");
+            Console.WriteLine(minhaConta.ToString());
+            minhaConta.Depositar(100);
+            minhaConta.Sacar(150);
+            minhaConta.Transferir(60,suaConta);
+            Console.WriteLine(minhaConta.ToString());
+            Console.WriteLine(suaConta.ToString());
+            
         }
     }
 }
